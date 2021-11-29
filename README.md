@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedropregnolato
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning PHP and Javascrip
+- 🌱 I’m currently learning PHP and Javascript
 - 💞️ I’m looking to collaborate on inovation
 - 📫 Follow me on Instagram @pregs_
 <!---
