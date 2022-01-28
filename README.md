@@ -1,22 +1,21 @@
 ## E aí pessoal?! Sou o Pedro Pregnolato 📌
 
-<div align="center">&nbsp;
+<div align="center">
   <a href="https://github.com/pedropregnolato" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropregnolato&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br" alt="pedropregnolato" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropregnolato&show_icons=true&locale=en&layout=compact&langs_count=7&theme=midnight-purple" alt="pedropregnolato" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropregnolato&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropregnolato&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ##
 
-<div style="display: inline_block">
-  <h3 align="center">Meus brinquedinhos favoritos</h3>
-      <a href="https://www.php.net" target="_blank" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="php-pregs" width="40" height="40"/>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="javascript-pregs" width="40" height="40"/> </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5-pregs" width="40" height="40"/> </a> 
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3-pregs" width="40" height="40"/> </a>    
-      </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql-pregs" width="40" height="40"/> </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<div style="display: inline_block" align="center">
+  <h3>Meus brinquedinhos favoritos</h3>
+    <img alt="Pregs-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img alt="Pregs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img alt="Pregs-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img alt="Pregs-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img alt="Pregs-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img alt="Pregs-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 <br>
@@ -39,3 +38,5 @@
       <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-pedrolucas.nunespregnolato" />
     </a>
   </p>
+  
+  ##
