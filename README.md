@@ -21,9 +21,9 @@
 
 ![Snake animation](https://github.com/pedropregnolato/pedropregnolato/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">Me acompanhe</h3>
+<h3 align="center">Se liga nos meus contatinhos</h3>
   <p align="center">
-    <a href ="mailto: pedrolucaspregnolato@gmail.com" target="_blank">
+    <a href ="mailto:pedrolucaspregnolato@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-pedrolucaspregnolato" target="_blank" />
     </a>
     <a href="https://linkedin.com/in/pedropregnolato" >
