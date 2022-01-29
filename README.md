@@ -28,14 +28,14 @@
     <a href="https://linkedin.com/in/pedropregnolato" >
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-pedropregnolato" target="blank" />
     </a>
-    <a href="https://twitter.com/pregs_" >
-      <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-pregs_" target="blank" />
+    <a href="https://discord.gg/pregs#3900" >
+      <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord-pregs#3900" target="blank" />
     </a>
     <a href="https://instagram.com/pregs_" >
       <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-pregs_" target="blank" />
     </a>
-    <a href="https://discord.gg/pregs#3900" >
-      <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord-pregs#3900" target="blank" />
+    <a href="https://twitter.com/pregs_" >
+      <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-pregs_" target="blank" />
     </a>
     <a href="https://fb.com/pedrolucas.nunespregnolato" >
       <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-pedrolucas.nunespregnolato" target="blank" />
