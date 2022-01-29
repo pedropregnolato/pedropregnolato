@@ -50,6 +50,6 @@
   
 <p align="center"> 
   <a href="https://github.com/pedropregnolato">
-    <img src="https://img.shields.io/github/followers/pedropregnolato.svg?style=social&label=Follow&maxAge=2592000" alt="pedropregnolato" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="pedropregnolato" />
   </a> 
 </p>
