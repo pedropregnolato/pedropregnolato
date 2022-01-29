@@ -23,13 +23,13 @@
 
 <h3 align="center">Me acompanhe</h3>
   <p align="center">
-    <a href ="pedrolucaspregnolato@gmail.com" >
+    <a href ="mailto:pedrolucaspregnolato@gmail.com" >
       <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-pedrolucaspregnolato" target="_blank" />
     </a>
     <a href="https://linkedin.com/in/pedropregnolato" >
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-pedropregnolato" target="blank" />
     </a>
-    <a href="https://discord.gg/pregs#3900" >
+    <a href="https://discord.gg/TpwY3UJnJS" >
       <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord-pregs#3900" target="blank" />
     </a>
     <a href="https://instagram.com/pregs_" >
