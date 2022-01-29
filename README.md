@@ -9,7 +9,7 @@
 ##
 
 <div style="display: inline_block" align="center">
-  <h3>Meus brinquedinhos favoritos</h3>
+  <h3>MEUS BRINQUEDINHOS FAVORITOS</h3>
     <img alt="Pregs-PHP" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img alt="Pregs-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img alt="Pregs-html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -21,7 +21,7 @@
 
 ![Snake animation](https://github.com/pedropregnolato/pedropregnolato/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">Se liga nos meus contatinhos</h3>
+<h3 align="center">OLHA SÓ MEUS CONTATINHOS</h3>
   <p align="center">
     <a href ="mailto:pedrolucaspregnolato@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-pedrolucaspregnolato" target="_blank" />
