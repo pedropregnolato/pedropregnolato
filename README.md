@@ -40,3 +40,7 @@
   </p>
   
   ##
+  
+<div align="center">
+    <img src="https://img.shields.io/github/followers/pedropregnolato.svg?style=social&label=Follow&maxAge=2592000" alt="github-pedropregnolato" />
+</div>
