@@ -1,4 +1,4 @@
-## E aí pessoal?! Sou o Pedro Pregnolato 📌
+## Oii, eu sou o Pedro Pregnolato!! 👋🏻 
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/pedropregnolato">
