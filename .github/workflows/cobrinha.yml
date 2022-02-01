@@ -23,15 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-window.snake.flag({
-  primary: [ // the flag for the used-to-be-rainbow snake
-    '#rrggbb', // hex code, the first color
-    '#rrggbb', // hex code, the second color
-    '#rrggbb', // hex code, the third color
-  ], // you can have as many colors as you want in here, it can be fewer or more than three
-  yinYang: [ // the flag for the second snake in yinyang mode
-    '#rrggbb', // hex code, the first color
-    '#rrggbb', // hex code, the second color
-    '#rrggbb', // hex code, the third color
-  ], // you can have as many colors as you want in here, it can be fewer or more than three
-}); 
