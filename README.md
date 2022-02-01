@@ -1,9 +1,12 @@
-## Oii, eu sou o Pedro Pregnolato!! 👋🏻 
+<div align="center">
+<h1> Oii, eu sou o Pedro Pregnolato!! 👋🏻 </h1> 
+<p> Sou desenvolvedor, programador ou menino dos sistemas, como preferir, só não vale a piadinha do garoto de programa, hein? </p>
+</div>
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/pedropregnolato">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedropregnolato&show_icons=true&theme=monokai&bg_color=DEG,f6e1b4,f6e1c4,f6e1d4,f6e1e4,f6e1f4&text_color=000000&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropregnolato&layout=compact&langs_count=7&theme=monokai&bg_color=DEG,f6e1f4,e6e1f4,d6e1f4,c6e1f4,b6e1f4&text_color=000000&locale=pt-br"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedropregnolato&show_icons=true&theme=monokai&bg_color=DEG,111111,242624,2a282b&text_color=14c722&title_color=8e2894&hide_border=1&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropregnolato&layout=compact&langs_count=7&theme=monokai&bg_color=DEG,2a282b,0b080b,000000&text_color=14c722&title_color=8e2894&hide_border=1&locale=pt-br"/>
 </div>
 
 ##
@@ -45,6 +48,22 @@
       <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam-pregs_" target="_blank" />
     </a>
   </p>
+  
+##
+  <h3 align="center">SOBRE MIM</h3>
+<br>
+  <div style="display: inline_block" align="center">
+    <p align="left">
+      <strong>Amo</strong> a ideia de <strong>criar</strong>, <strong>inventar</strong> e <strong>inovar</strong>, e a <strong>tecnologia</strong> me permite<br>
+      isso, a área que estou buscando construir meu <strong>futuro</strong> me abre<br>
+      essa <strong>oportunidade</strong>, por conta disso optei em seguir esse <strong>caminho</strong>.
+    </p>
+    <p align="right">
+      📍 Sou estagiário <br>
+      📚 Faço duas faculdades (ADS | SI) <br>
+      📌 Quer me acompanhar? Olhe minhas redes sociais e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"> Linkedin </a>
+    </p>
+  </div>
   
 ##
   
