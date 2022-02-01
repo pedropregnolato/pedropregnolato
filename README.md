@@ -2,8 +2,8 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/pedropregnolato">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedropregnolato&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropregnolato&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-br"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedropregnolato&show_icons=true&theme=monokai&bg_color=DEG,f6e1b4,f6e1c4,f6e1d4,f6e1e4,f6e1f4&text_color=000000&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropregnolato&layout=compact&langs_count=7&theme=monokai&bg_color=DEG,f6e1f4,e6e1f4,d6e1f4,c6e1f4,b6e1f4&text_color=000000&locale=pt-br"/>
 </div>
 
 ##
