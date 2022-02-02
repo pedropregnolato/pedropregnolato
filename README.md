@@ -5,7 +5,7 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/pedropregnolato">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedropregnolato&show_icons=true&theme=monokai&bg_color=DEG,111111,242624,2a282b&text_color=40cd3f&title_color=8e2894&hide_border=1&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedropregnolato&show_icons=true&theme=monokai&bg_color=DEG,000000,111111,242624,2a282b&text_color=40cd3f&title_color=8e2894&hide_border=1&include_all_commits=true&count_private=true&locale=pt-br" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropregnolato&layout=compact&langs_count=7&theme=monokai&bg_color=DEG,2a282b,0b080b,000000&text_color=40cd3f&title_color=8e2894&hide_border=1&locale=pt-br"/>
 </div>
 
@@ -59,8 +59,10 @@
       essa <strong>oportunidade</strong>, por conta disso optei em seguir esse <strong>caminho</strong>.
     </p>
     <p align="right">
-      📍 Sou estagiário <br>
+      📍 Eu sou estagiário <br>
       📚 Faço duas faculdades (ADS | SI) <br>
+      ✈ Meu sonho é conhecer o Mundo - Eu amo viajar <br>
+      🎯 Adoro outros idiomas - Hoje me aventuro aprendendo Alemão <br>
       📌 Quer me acompanhar? Olhe minhas redes sociais e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"> Linkedin </a>
     </p>
   </div>
@@ -69,6 +71,6 @@
   
 <p align="center"> 
   <a href="https://github.com/pedropregnolato">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="pedropregnolato" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="pedropregnolato-github"/>
   </a> 
 </p>
