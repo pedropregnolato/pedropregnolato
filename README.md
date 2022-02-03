@@ -76,7 +76,7 @@
     </p>
     <p align="right">
       📍 Eu sou estagiário |<br>
-      📚 Faço duas faculdades (ADS | SI) |<br>
+      📚 Faço duas faculdades (ADS & SI) |<br>
       ✈  Meu sonho é conhecer o Mundo - Eu amo viajar |<br>
       🎯 Adoro outros idiomas - Hoje me aventuro aprendendo Alemão |<br>
       📌 Quer me acompanhar? Siga-me nas minhas redes sociais e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"> Linkedin </a> |
