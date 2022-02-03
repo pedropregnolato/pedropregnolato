@@ -13,13 +13,13 @@
 
 <div style="display: inline_block" align="center">
   <h3>MEU PASSATEMPO FAVORITO</h3>
-    <img alt="Pregs-PHP" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img alt="Pregs-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img alt="Pregs-html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img alt="Pregs-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="Pregs-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img alt="Pregs-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img alt="Pregs-mysql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img alt="Pregs-PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img alt="Pregs-html5" width="80" src="gif/html.gif" />
+    <img alt="Pregs-PHP" width="100" src="gif/php.gif" />
+    <img alt="Pregs-git" width="100" src="gif/git.gif" />
+    <img alt="Pregs-Js" width="75" src="gif/js.gif" />  
+    <img alt="Pregs-CSS" width="80" src="gif/css.gif" />
+    <img alt="Pregs-mysql" height="75" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 ![Snake animation](https://github.com/pedropregnolato/pedropregnolato/blob/output/github-contribution-grid-snake.svg)
