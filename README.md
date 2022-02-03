@@ -24,7 +24,7 @@
 
 ![Snake animation](https://github.com/pedropregnolato/pedropregnolato/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">FALA COMIGO</h3>
+<h3 align="center">FALE COMIGO</h3>
   <p align="center">
     <a href ="mailto:pedrolucaspregnolato@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-pedrolucaspregnolato" target="_blank" />
@@ -46,7 +46,8 @@
     </a>
     <a href ="https://steamcommunity.com/id/pregs/" >
       <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam-pregs_" target="_blank" />
-    </a>
+    </a><br><br>
+    <img src="https://img.shields.io/github/followers/pedropregnolato.svg?style=social&label=Follow&maxAge=2592000&tab=followers">
   </p>
   
 ##
@@ -72,5 +73,5 @@
 <p align="center"> 
   <a href="https://github.com/pedropregnolato">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="pedropregnolato-github"/>
-  </a> 
+  </a>
 </p>
