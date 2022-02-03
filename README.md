@@ -13,13 +13,25 @@
 
 <div style="display: inline_block" align="center">
   <h3>MEU PASSATEMPO FAVORITO</h3>
-    <img alt="Pregs-PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img alt="Pregs-html5" width="80" src="gif/html.gif" />
-    <img alt="Pregs-PHP" width="100" src="gif/php.gif" />
-    <img alt="Pregs-git" width="100" src="gif/git.gif" />
-    <img alt="Pregs-Js" width="75" src="gif/js.gif" />  
-    <img alt="Pregs-CSS" width="80" src="gif/css.gif" />
-    <img alt="Pregs-mysql" height="75" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <a href="https://www.postgresql.org/">
+      <img alt="Pregs-PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img alt="Pregs-html5" width="80" src="gif/html.gif" />
+    </a>
+    <a href="https://www.php.net/">
+      <img alt="Pregs-PHP" width="100" src="gif/php.gif" />
+    <a href="https://git-scm.com/">
+      <img alt="Pregs-git" width="100" src="gif/git.gif" />
+    <a href="https://www.javascript.com/">
+      <img alt="Pregs-Js" width="75" src="gif/js.gif" />
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+      <img alt="Pregs-CSS" width="80" src="gif/css.gif" />
+    </a>
+    <a href="https://www.mysql.com/">
+      <img alt="Pregs-mysql" height="75" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    </a>
 </div>
 
 ![Snake animation](https://github.com/pedropregnolato/pedropregnolato/blob/output/github-contribution-grid-snake.svg)
