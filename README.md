@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Oii, eu sou o Pedro Pregnolato!! 👋🏻 </h1> 
+<h1> Oii, eu sou o Pedro Pregnolato!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1> 
 <p> Sou desenvolvedor, programador ou menino dos sistemas, como preferir, só não vale a piadinha do garoto de programa, hein? </p>
 </div>
 
@@ -50,7 +50,10 @@
     <img src="https://img.shields.io/github/followers/pedropregnolato.svg?style=social&label=Follow&maxAge=2592000&tab=followers">
   </p>
   
-##
+<div align="center">
+  <img src="https://c.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif">
+</div>
+  
   <h3 align="center">SOBRE MIM</h3>
 <br>
   <div style="display: inline_block" align="center">
@@ -75,3 +78,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="pedropregnolato-github"/>
   </a>
 </p>
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9a38e763393359.5aafa2d7c8f3f.gif">
+</div>
