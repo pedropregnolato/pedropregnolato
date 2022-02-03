@@ -53,17 +53,17 @@
   <h3 align="center">SOBRE MIM</h3>
 <br>
   <div style="display: inline_block" align="center">
-    <p align="left">
-      <strong>Amo</strong> a ideia de <strong>criar</strong>, <strong>inventar</strong> e <strong>inovar</strong>, e a <strong>tecnologia</strong> me permite<br>
-      isso, a área que estou buscando construir meu <strong>futuro</strong> me abre<br>
-      essa <strong>oportunidade</strong>, por conta disso optei em seguir esse <strong>caminho</strong>.
+    <p align="justify">
+      | <strong>Amo</strong> a ideia de <strong>criar</strong>, <strong>inventar</strong> e <strong>inovar</strong>, e a <strong>tecnologia</strong> me permite<br>
+      isso, a área que estou buscando construir meu <strong>futuro</strong> me abre essa<br>
+      <strong>oportunidade</strong>, por conta disso optei em seguir esse <strong>caminho</strong>.
     </p>
     <p align="right">
-      📍 Eu sou estagiário <br>
-      📚 Faço duas faculdades (ADS | SI) <br>
-      ✈ Meu sonho é conhecer o Mundo - Eu amo viajar <br>
-      🎯 Adoro outros idiomas - Hoje me aventuro aprendendo Alemão <br>
-      📌 Quer me acompanhar? Siga-me nas minhas redes sociais e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"> Linkedin </a>
+      📍 Eu sou estagiário |<br>
+      📚 Faço duas faculdades (ADS | SI) |<br>
+      ✈  Meu sonho é conhecer o Mundo - Eu amo viajar |<br>
+      🎯 Adoro outros idiomas - Hoje me aventuro aprendendo Alemão |<br>
+      📌 Quer me acompanhar? Siga-me nas minhas redes sociais e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"> Linkedin </a> |
     </p>
   </div>
   
