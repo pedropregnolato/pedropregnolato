@@ -59,7 +59,7 @@
     <a href ="https://steamcommunity.com/id/pregs/" >
       <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam-pregs_" target="_blank" />
     </a><br><br>
-    <img src="https://img.shields.io/github/followers/pedropregnolato.svg?style=social&label=Follow&maxAge=2592000&tab=followers">
+    <img src="https://img.shields.io/github/followers/pedropregnolato.svg?style=social&label=Follow&tab=followers">
   </p>
   
 <div align="center">
