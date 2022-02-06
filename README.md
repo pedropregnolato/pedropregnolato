@@ -6,7 +6,7 @@
 <div style="display: inline_block" align="center">
   <a href="https://github.com/pedropregnolato">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedropregnolato&show_icons=true&theme=dracula&bg_color=DEG,373737,3e3e3e,454545&hide_border=1&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropregnolato&layout=compact&langs_count=7&theme=dracula&bg_color=DEG,454545,575757,686868&hide_border=1&locale=pt-br"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropregnolato&layout=compact&langs_count=7&theme=dracula&bg_color=DEG,454545,575757,686868&hide_border=1&locale=pt-br&count_private=true"/>
 </div>
 
 ##
