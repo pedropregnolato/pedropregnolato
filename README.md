@@ -91,5 +91,5 @@
   </a>
 </p>
 <div align="center">
-  <img src="gif/golfinho.gif">
+  <img src="gif/patolino_dev.gif">
 </div>
