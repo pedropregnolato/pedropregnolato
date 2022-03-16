@@ -75,7 +75,6 @@
       <strong>oportunidade</strong>, por conta disso optei em seguir esse <strong>caminho</strong>.
     </p>
     <p align="right">
-      📍 Eu sou <strong>estagiário</strong> |<br>
       📚 Faço duas faculdades <strong>(ADS & SI)</strong> |<br>
       ✈  Meu sonho é conhecer o <strong>Mundo</strong> - Eu amo <strong>viajar</strong> |<br>
       🎯 Adoro outros <strong>idiomas</strong> - Hoje me aventuro aprendendo <strong>Alemão</strong> |<br>
