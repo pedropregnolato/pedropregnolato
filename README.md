@@ -21,8 +21,8 @@
     </a>
     <a href="https://www.php.net/">
       <img alt="Pregs-PHP" width="100" src="gif/php.gif" />
-    <a href="https://git-scm.com/">
-      <img alt="Pregs-git" width="100" src="gif/git.gif" />
+    <a href="https://www.python.org/">
+      <img alt="Pregs-python" width="75" src="gif/python.gif" />
     <a href="https://www.javascript.com/">
       <img alt="Pregs-Js" width="75" src="gif/js.gif" />
     </a>
