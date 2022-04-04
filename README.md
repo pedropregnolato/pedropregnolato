@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Oii, eu sou o Pedro Pregnolato!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1> 
+<h1> Olá, eu sou o Pedro Pregnolato!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1> 
 <p> Sou desenvolvedor, programador ou menino dos sistemas, como preferir, só não vale a piadinha do garoto de programa, hein? </p>
 </div>
 
