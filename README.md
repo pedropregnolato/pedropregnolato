@@ -50,10 +50,11 @@
       <strong>oportunidade</strong>, por conta disso optei em seguir esse <strong>caminho</strong>.
     </p>
     <p align="right">
-      📚 Faço duas faculdades <strong>(ADS & SI)</strong> |<br>
       ✈  Meu sonho é conhecer o <strong>Mundo</strong> - Eu amo <strong>viajar</strong> |<br>
       🎯 Adoro outros <strong>idiomas</strong> - Hoje me aventuro aprendendo <strong>Alemão</strong> |<br>
-      📌 Quer me acompanhar? Siga-me nas minhas <strong>redes sociais</strong> e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"> <strong>Linkedin</strong> </a> |
+      📌 Quer me acompanhar? Siga-me nas minhas <strong>redes sociais</strong> e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"
+      <strong>Linkedin</strong> </a> |<br>
+      📚 Formado em <strong>Análise e desenvolvimento de sistemas</strong> e me formando em <strong>Sistemas de Informação</strong> |<br>
     </p>
   </div>
      
