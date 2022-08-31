@@ -54,7 +54,7 @@
       🎯 Adoro outros <strong>idiomas</strong> - Hoje me aventuro aprendendo <strong>Alemão</strong> |<br>
       📌 Quer me acompanhar? Siga-me nas minhas <strong>redes sociais</strong> e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"
       <strong>Linkedin</strong> </a> |<br>
-      📚 Formado em <strong>Análise e desenvolvimento de sistemas</strong> e me formando em <strong>Sistemas de Informação</strong> |<br>
+      📚 Formado em <strong>Análise e desenvolvimento de sistemas</strong> e me formando em <strong>Sistemas de informação</strong> |<br>
     </p>
   </div>
      
