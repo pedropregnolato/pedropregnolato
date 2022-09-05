@@ -52,7 +52,7 @@
     <p align="right">
       ✈  Meu sonho é conhecer o <strong>Mundo</strong> - Eu amo <strong>viajar</strong> |<br>
       🎯 Adoro outros <strong>idiomas</strong> - Hoje me aventuro aprendendo <strong>Alemão</strong> |<br>
-      📌 Quer me acompanhar? Siga-me nas minhas <strong>redes sociais</strong> e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"
+      📌 Quer me acompanhar? Siga-me nas minhas <a href="allmylinks.com/pregs"><strong>redes sociais</strong></a> e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"
       <strong>Linkedin</strong> </a> |<br>
       📚 Formado em <strong>Análise e desenvolvimento de sistemas</strong> e me formando em <strong>Sistemas de informação</strong> |<br>
     </p>
@@ -95,7 +95,7 @@
 ##
   
 <p align="center"> 
-  <a href="https://github.com/pedropregnolato">
+  <a href="allmylinks.com/pregs">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="pedropregnolato-github"/>
   </a>
 </p>
