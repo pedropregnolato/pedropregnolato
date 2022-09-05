@@ -52,7 +52,7 @@
     <p align="right">
       ✈  Meu sonho é conhecer o <strong>Mundo</strong> - Eu amo <strong>viajar</strong> |<br>
       🎯 Adoro outros <strong>idiomas</strong> - Hoje me aventuro aprendendo <strong>Alemão</strong> |<br>
-      📌 Quer me acompanhar? Siga-me nas minhas <a href="allmylinks.com/pregs"><strong>redes sociais</strong></a> e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"
+      📌 Quer me acompanhar? Siga-me nas minhas <a href="https://allmylinks.com/pregs"><strong>redes sociais</strong></a> e veja meu <a href="https://www.linkedin.com/in/pedropregnolato/"
       <strong>Linkedin</strong> </a> |<br>
       📚 Formado em <strong>Análise e desenvolvimento de sistemas</strong> e me formando em <strong>Sistemas de informação</strong> |<br>
     </p>
@@ -64,7 +64,7 @@
       
 <h3 align="center">FALE COMIGO</h3>
   <p align="center">
-    <a href ="mailto:pedrolucaspregnolato@gmail.com" target="_blank">
+    <a href="mailto:pedrolucaspregnolato@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-pedrolucaspregnolato" target="_blank" />
     </a>
     <a href="https://linkedin.com/in/pedropregnolato" >
@@ -86,7 +86,7 @@
       <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam-pregs_" target="_blank" />
     </a>
     <br>
-    <a href="https://github.com/pedropregnolato">
+    <a href="https://allmylinks.com/pregs">
       <img align="center" src="https://img.shields.io/github/followers/pedropregnolato.svg?style=social&label=Follow&tab=followers">
     </a>
   </p>
@@ -95,7 +95,7 @@
 ##
   
 <p align="center"> 
-  <a href="allmylinks.com/pregs">
+  <a href="https://github.com/pedropregnolato">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="pedropregnolato-github"/>
   </a>
 </p>
